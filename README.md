@@ -23,23 +23,3 @@ Me chamo Luis Filipe, tenho 27 anos e sou natural de Belém do Pará. Atualmente
 <br />
 
 <br></br>
-
-/*# 📊Estatística
-
-<p>
-<img
-align="left"
-alt="Github Stats"
-height="200"
-style="padding-right: 100px"
-src="https://github-readme-stats.vercel.app/api?username=luisfilipems28&show_icons=true&theme=dark&include_all_commits=true&locale=pt-BR">
-
-<img
-align="left"
-alt="Github Stats"
-height="200"
-style="padding-right: 100px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipems28&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9">
-
-</p>
-*/
